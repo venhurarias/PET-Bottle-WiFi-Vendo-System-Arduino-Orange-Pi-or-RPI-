@@ -264,4 +264,13 @@ It is suitable for:
 - recycling stations  
 - smart cities projects  
 - environmental awareness systems  
-- IoT-based vending solutions  
+- IoT-based vending solutions
+
+## Wiring Diagram
+![Wiring Diagram](images/wiring_diagram.jpg)
+
+## 🎥 Demo Video
+
+Click the image below to watch the system demo:
+
+[![Watch Demo](images/demo.png)](https://drive.google.com/file/d/1LdIWzTKDKx_UlEM_pjfK5IlDbzUQU6T8/view)
