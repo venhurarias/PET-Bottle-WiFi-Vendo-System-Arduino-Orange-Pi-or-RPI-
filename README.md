@@ -1,4 +1,4 @@
-# PET Bottle WiFi Vendo System (Bote-Link)
+# PET Bottle WiFi Vendo System
 
 This project is an Arduino-based **PET bottle recycling vending machine** integrated with an **Orange Pi running Adopisoft (WiFi vendo system)**. Users can insert PET bottles and receive **free WiFi access** as a reward.
 
